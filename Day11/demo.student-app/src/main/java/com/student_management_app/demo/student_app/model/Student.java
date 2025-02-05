@@ -4,13 +4,10 @@ package com.student_management_app.demo.student_app.model;
 import jakarta.persistence.*;
 import lombok.*;
 
-@Data
 @Entity
+@Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Getter
-@Setter
-@ToString
 public class Student {
 
     @Id
