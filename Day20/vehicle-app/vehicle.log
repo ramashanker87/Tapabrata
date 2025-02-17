@@ -1,0 +1,4 @@
+2025-02-16T23:13:58.134-08:00  INFO 10104 --- [vehicle-app] [main] c.t.v.VehicleAppApplicationTests         : Starting VehicleAppApplicationTests using Java 23.0.2 with PID 10104 (started by admin in C:\Users\admin\Downloads\vehicle-app)
+2025-02-16T23:13:58.138-08:00  INFO 10104 --- [vehicle-app] [main] c.t.v.VehicleAppApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2025-02-16T23:14:02.275-08:00  INFO 10104 --- [vehicle-app] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2025-02-16T23:14:02.412-08:00  INFO 10104 --- [vehicle-app] [main] c.t.v.VehicleAppApplicationTests         : Started VehicleAppApplicationTests in 5.1 seconds (process running for 7.463)
